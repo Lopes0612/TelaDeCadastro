@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
   },
   Button: {
     borderRadius: 7,
-    backgroundColor: '#121214',
+    backgroundColor: '#121213',
   },
   
   titulocad: {
